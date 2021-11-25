@@ -1,3 +1,3 @@
-export interface JwtPayLoad {
+export interface JwtPayload {
   username: string;
 }
